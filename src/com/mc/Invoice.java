@@ -250,6 +250,8 @@ public class Invoice {
 	}
 
 	/**
+	 * On Mac OS getenv("PWD"); returns null, why?
+	 * @todo as on stackoverflow ?
 	 * @param pwd
 	 * @return
 	 */
